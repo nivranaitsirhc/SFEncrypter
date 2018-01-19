@@ -1,6 +1,8 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
+Tools/
+labs/
 [Oo]bj/
 [Bb]in/
 
